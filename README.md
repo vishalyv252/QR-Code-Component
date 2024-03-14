@@ -1,6 +1,6 @@
 # QR Code Component
 
-Hello everyone, this projected was done with using "Angular-CLI" and "Tailwind-CSS". This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+Hello everyone, this projected was done with using "Angular-CLI" and "Tailwind-CSS". This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1. I have attached the live website at the description of this repository.
 
 ## Development server
 
