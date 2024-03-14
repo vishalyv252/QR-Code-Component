@@ -13,7 +13,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ![Desktop-Design](https://github.com/vishalyv252/QR-Code-Component/assets/105093020/8f5e51e5-ed80-4bbb-aa96-053237d65da3)
 
 
-3. Mobile Design:
+2. Mobile Design:
    
 ![Mobile-Design](https://github.com/vishalyv252/QR-Code-Component/assets/105093020/e66de264-be6e-481d-9d64-0a4e3f751caa)
 
