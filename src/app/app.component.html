@@ -1,0 +1,27 @@
+<!-- The Content is displayed for all devices, except Small Mobile devices. -->
+<div class="block Small_Mobiles_Size_View:hidden">
+  <div class="flex justify-center items-center h-screen w-full overflow-x-hidden overflow-y-auto bg-Light_gray font-Outfit">
+    <div class="flex justify-center items-center h-auto w-auto m-auto p-20">
+      <div class="flex flex-col justify-center items-center h-auto w-80 p-4 rounded-3xl bg-White drop-shadow-2xl">
+        <!-- This is where the "QR-Code Image", "Title" and "Description" content of the Angular application will be rendered. The file is available at "components" folder. -->
+        <app-qr-code-image></app-qr-code-image>
+        <app-title></app-title>
+        <app-description></app-description>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- The Content is displayed only at Small Mobile devices. -->
+<div class="hidden Small_Mobiles_Size_View:block">
+  <div class="flex justify-center items-center h-screen w-full overflow-x-hidden overflow-y-auto bg-Light_gray font-Outfit">
+    <div class="flex justify-center items-center h-auto w-auto m-auto p-20">
+      <div class="flex flex-col justify-center items-center h-auto w-60 p-3 rounded-3xl bg-White drop-shadow-2xl">
+        <!-- This is where the "QR-Code Image", "Title" and "Description" content of the Angular application will be rendered. The file is available at "components" folder. -->
+        <app-qr-code-image></app-qr-code-image>
+        <app-title></app-title>
+        <app-description></app-description>
+      </div>
+    </div>
+  </div>
+</div>

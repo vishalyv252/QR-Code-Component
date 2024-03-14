@@ -1,0 +1,9 @@
+<!-- The Content is displayed for all devices, except Small Mobile devices. -->
+<div class="block Small_Mobiles_Size_View:hidden">
+  <img [src]="qr_code_image_link" [alt]="qr_code_image_description" class="h-72 w-72 rounded-xl" />
+</div>
+
+<!-- The Content is displayed only at Small Mobile devices. -->
+<div class="hidden Small_Mobiles_Size_View:block">
+  <img [src]="qr_code_image_link" [alt]="qr_code_image_description" class="h-56 w-56 rounded-xl" />
+</div>

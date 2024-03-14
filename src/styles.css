@@ -1,0 +1,7 @@
+/* I imported the "Outfit" font family from Google fonts and I added the CSS Variable at "tailwind.config.js file". */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* In this CSS file, I added the Tailwind directives. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
